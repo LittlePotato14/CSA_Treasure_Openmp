@@ -1,0 +1,6 @@
+﻿  TreasureOpenmp.cpp
+C:\Users\narkada\source\repos\TreasureOpenmp\TreasureOpenmp\TreasureOpenmp.cpp(51,31): warning C4101: e: неиспользованная локальная переменная
+C:\Users\narkada\source\repos\TreasureOpenmp\TreasureOpenmp\TreasureOpenmp.cpp(120,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\narkada\source\repos\TreasureOpenmp\TreasureOpenmp\TreasureOpenmp.cpp(190,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\narkada\source\repos\TreasureOpenmp\TreasureOpenmp\TreasureOpenmp.cpp(235,23): warning C4018: <: несоответствие типов со знаком и без знака
+  TreasureOpenmp.vcxproj -> C:\Users\narkada\source\repos\TreasureOpenmp\Debug\TreasureOpenmp.exe
