@@ -41,7 +41,7 @@
 # Функция потоков-рабочих
 ## Поток ожидает новой задаче в своей ячейке вектора задач
 
-![alt-текст](https://github.com/LittlePotato14/CSA_Treasure_Openmp/blob/master/screens/gf1.png "group1")
+![alt-текст](https://github.com/LittlePotato14/CSA_Treasure_Openmp/blob/master/screens/group1.png "group1")
 
 ## Выполнение задачи
 Поток завершается, если задача = -2 (код завершения)
@@ -50,14 +50,14 @@
 
 Поток засыпает на время равное 5 / members (один пират исследует ячейку за 5 секунд), симулируя выполнение задания
 
-![alt-текст](https://github.com/LittlePotato14/CSA_Treasure_Openmp/blob/master/screens/gf2.png "group2")
+![alt-текст](https://github.com/LittlePotato14/CSA_Treasure_Openmp/blob/master/screens/group2.png "group2")
 
 ## Обработка информации
 После пробуждения поток определяет, был ли найден клад и уведомляет главный поток о том, что работа завершена
 
 Поток выводит информацию о текущем статусе острова после заверщения миссии
 
-![alt-текст](https://github.com/LittlePotato14/CSA_Treasure_Openmp/blob/master/screens/gf3.png "group3")
+![alt-текст](https://github.com/LittlePotato14/CSA_Treasure_Openmp/blob/master/screens/group3.png "group3")
 
 # Функция main
 ## Активирует setup и настраивает локаль, рандом и количество потоков
